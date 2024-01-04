@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a KTH doctoral student, working with Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) on signed graph mining and with Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ) on graph bandits.
-My research interests are discovering and exploiting properties in both synthetic graphs (e.g., stochastic block models) and the real-world large-scale graphs.
+I am a KTH doctoral student, working with Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) on signed graph mining and with Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ) on graph bandits. For the former, I work with explict pattern mining. For the latter, I focus on the computational aspect of combiantorial bandits. 
 
 Education and Work Experience
 ======
