@@ -8,7 +8,7 @@ author_profile: true
 ## [Closing the Computational-Statistical Gap in Best Arm Identification for Combinatorial Semi-bandits](https://openreview.net/forum?id=8jg8z3ASiw)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Po-An Wang](https://scholar.google.com/citations?user=kzXIxFYAAAAJ), [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ), [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ)
 * Advances in Neural Information Processing Systems (NeurIPS), 2023
-* [paper](https://openreview.net/attachment?id=8jg8z3ASiw&name=supplementary_material), [code](https://github.com/rctzeng/NeurIPS2023-PerturbedFWS), [poster](https://rctzeng.github.io/posters/NeurIPS2023-PFWS.pdf), [long slides](https://rctzeng.github.io/slides/NeurIPS2023-PFWS.pdf), [5-min slides](https://rctzeng.github.io/slides/NeurIPS2023-PFWS_5min.pdf), [5-min talk](https://www.youtube.com/watch?v=ilGufKXJtII)
+* [paper](https://openreview.net/attachment?id=8jg8z3ASiw&name=supplementary_material), [code](https://github.com/rctzeng/NeurIPS2023-PerturbedFWS), [poster](https://rctzeng.github.io/posters/NeurIPS2023-PFWS.pdf), [5-min slides](https://rctzeng.github.io/slides/NeurIPS2023-PFWS_5min.pdf), [5-min talk](https://www.youtube.com/watch?v=ilGufKXJtII)
 * Summary: 
 The proposed algorithm (P-FWS) is the first polynomial-time algorithm that achieves minimal sample complexity in high confidence regime and has polynomial sample complexity in moderate confidence regime. Its designed is based on:\
  $\,\,$ (i) A structural property discovered in the Lagrangian dual function associated with the sample complexity lowerbound $T^{\star}(\mu)$;\
