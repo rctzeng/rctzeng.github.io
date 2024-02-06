@@ -13,8 +13,6 @@ Education and Work Experience
 ======
 * 2020-2025 (expected): doctoral student in KTH, Sweden
   * 50% seminar: [slides](slides/Half-Time.pdf) with [Aditya Bhaskara](https://scholar.google.com/citations?user=tqxTaiAAAAAJ) as the opponent
-  * Courses taken: FEM3220 (Matrix Algebra), FSF3940 (Probability), FEO3210 (Information Theory), FEO3230 (Probability and Random Processes), FSF3850 (Numerical Linear Programming)
-  * Summer school attended: "The Method of Moments in Computer Science and Beyond" and "Polyhedral Techniques in Combinatorial Optimization"
   * Teaching Assistant: [DD2421 (Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2421) taught by [Atsuto Maki](https://scholar.google.com/citations?user=bfWzlAEAAAAJ) and [DD2434 (Advanced Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2434)
 * 2018-2019: R&D Software Engineer, AI+R department, Microsoft, Taiwan
 * 2018: Research Assistant, Institute of Information Science, Academia Sinica, Taiwan (supervisor: [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ))
@@ -23,7 +21,7 @@ Education and Work Experience
 
 Professional Activities
 ======
-Reviewers NeurIPS, ICML, AISTATS, and ECML/PKDD, and PC Members for SDM and PAKDD
+Reviewers for NeurIPS, ICML, AISTATS, and ECML/PKDD, and PC Members for SDM and PAKDD
 
 Awards
 ======
