@@ -14,7 +14,6 @@ The proposed algorithm (P-FWS) is the first polynomial-time algorithm that achie
  $\,\,$ (i) A structural property discovered in the Lagrangian dual function associated with the sample complexity lowerbound $T^{\star}(\mu)$;\
  $\,\,$ (ii) Such structural property allows us to design an efficient but non-standard two-player algorithm (MCP) to solve the inner optimization of $T^{\star}(\mu)$;\
  $\,\,$ (iii) The outer optimization of $T^{\star}(\mu)$ is solved by stochastic smoothed FW-based algorithm whose required gradients are estimated only by using the linear maximization.
- * Presented on [TBD]
 
 ## [Improved analysis of randomized SVD for top-eigenvector approximation](https://proceedings.mlr.press/v151/tzeng22a.html)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Po-An Wang](https://scholar.google.com/citations?user=kzXIxFYAAAAJ), Florian Adriaens, [Aristides Gionis](https://scholar.google.se/citations?hl=en&user=11JgipcAAAAJ), and [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ)
