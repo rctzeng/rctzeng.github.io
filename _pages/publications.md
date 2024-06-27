@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## [Matroid Semi-Bandits in Sublinear Time](https://openreview.net/forum?id=MwQ53xAIPs)
+* **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Naoto Ohsaka](https://scholar.google.co.jp/citations?user=Qgkc9DgAAAAJ), [Kaito Ariu](https://scholar.google.co.jp/citations?user=4zXjxhsAAAAJ)
+* International Conference on Machine Learning (ICML), 2024
+* [paper](https://openreview.net/pdf?id=MwQ53xAIPs)
+* Summary: In this study, we consider the regret minimization under the combinatorial semi-bandit with knapsack-like action sets. The setting finds applications in various domains, such as online ranking, revenue management, and wireless sensor networks.
+Prior works either have per-round time complexity at least polynomial in the number $K$ of arms or linear in the product of knapsack-like set parameters, which can be exponentially large in $K$. In this work, we propose an algorithm that significantly reduces the per-round time complexity to $\mathcal{O}\left(D^{2N+4}\text{polylog}(K,T)\right)$, while achieving a regret upper bound of $\mathcal{O}\left(\frac{K\ln^2D\ln T}{\triangle_{\min}}\right)$, where $N$ is the number of linear constraints, $\triangle_{\min}$ is the suboptimality gap, $D$ is the maximum number of arms in any action, and $T$ is the number of rounds. The per-round time complexity is further reduced to $\mathcal{O}\left(D^3\text{polylog}(K,T)\right)$ on a special case of the $D$-set. Our algorithm's design is based on monotone max-plus convolution and the rounding of the dynamic programming table, elements that may be of independent interest.
+
 ## [Closing the Computational-Statistical Gap in Best Arm Identification for Combinatorial Semi-bandits](https://openreview.net/forum?id=8jg8z3ASiw)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Po-An Wang](https://scholar.google.com/citations?user=kzXIxFYAAAAJ), [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ), [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ)
 * Advances in Neural Information Processing Systems (NeurIPS), 2023
