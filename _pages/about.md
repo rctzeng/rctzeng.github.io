@@ -11,7 +11,8 @@ I am a KTH doctoral student, working with Prof. [Aristides Gionis](https://schol
 
 Education and Work Experience
 ======
-* 2020-2025 (expected): doctoral student in KTH, Sweden
+* 2020-2024 (expected): doctoral student in KTH, Sweden
+  * I will defend my PhD on Dec 6th, 2024. Here's my [thesis](papers/PhD-Thesis.pdf)
   * 50% seminar: [slides](slides/Half-Time.pdf) with [Aditya Bhaskara](https://scholar.google.com/citations?user=tqxTaiAAAAAJ) as the opponent
   * Teaching Assistant: [DD2421 (Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2421) taught by [Atsuto Maki](https://scholar.google.com/citations?user=bfWzlAEAAAAJ) and [DD2434 (Advanced Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2434)
 * 2018-2019: R&D Software Engineer, AI+R department, Microsoft, Taiwan
