@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a KTH doctoral student, working with Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) on signed graph mining and with Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ) on graph bandits. For the former, I work with explict pattern mining. For the latter, I focus on the computational aspect of combiantorial bandits. 
+I am a Data Scientist at Ericsson.
+I obtained my PhD degree at KTH, supervised by Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) and Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ).
 
 Education and Work Experience
 ======
-* 2020 Mar. - 2025 Aug.: doctoral student in KTH, Sweden
+* 2025 Dec. - Now: Data Scientist at Ericsson, Sweden
+* 2020 Mar. - 2025 Aug.: Doctoral Student at KTH, Sweden
   * On Dec 6th, 2024, I defended my PhD. Here's my [thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-355999)
   * 50% seminar: [slides](slides/Half-Time.pdf) with [Aditya Bhaskara](https://scholar.google.com/citations?user=tqxTaiAAAAAJ) as the opponent
   * Teaching Assistant: [DD2421 (Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2421) taught by [Atsuto Maki](https://scholar.google.com/citations?user=bfWzlAEAAAAJ) and [DD2434 (Advanced Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2434)
