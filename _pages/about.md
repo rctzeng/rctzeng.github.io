@@ -16,6 +16,7 @@ Education and Work Experience
 * 2020 Mar. - 2025 Aug.: Doctoral Student at KTH, Sweden
   * On Dec 6th, 2024, I defended my PhD. Here's my [thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-355999) and [slides](slides/PhD-Defense.pdf)
   * 50% seminar: [slides](slides/Half-Time.pdf) with [Aditya Bhaskara](https://scholar.google.com/citations?user=tqxTaiAAAAAJ) as the opponent
+  * Research internship at CyberAgent, supervised by [Naoto Ohsaka](https://scholar.google.com/citations?hl=en&user=Qgkc9DgAAAAJ) and [Kaito Ariu](https://scholar.google.com/citations?user=4zXjxhsAAAAJ)
   * Teaching Assistant: [DD2421 (Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2421) taught by [Atsuto Maki](https://scholar.google.com/citations?user=bfWzlAEAAAAJ) and [DD2434 (Advanced Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2434)
 * 2018 Jun. - 2019 Nov.: R&D Software Engineer, AI+R department, Microsoft, Taiwan
 * 2018 Apr. - Jun.: Research Assistant, Institute of Information Science, Academia Sinica, Taiwan (supervisor: [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ))
