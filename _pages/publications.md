@@ -8,7 +8,7 @@ author_profile: true
 ## [Matroid Semi-Bandits in Sublinear Time](https://openreview.net/forum?id=MwQ53xAIPs)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Naoto Ohsaka](https://scholar.google.co.jp/citations?user=Qgkc9DgAAAAJ), [Kaito Ariu](https://scholar.google.co.jp/citations?user=4zXjxhsAAAAJ)
 * International Conference on Machine Learning (ICML), 2024
-* [paper](https://openreview.net/pdf?id=MwQ53xAIPs)
+* [paper](https://openreview.net/pdf?id=MwQ53xAIPs), [slides](https://rctzeng.github.io/slides/ICML2024-FasterCUCB.pdf), [poster](https://rctzeng.github.io/posters/ICML2024-FasterCUCB.pdf)
 * Summary: Existing algorithms have per-round time complexity at least $\Omega(K)$. We propose FasterCUCB whose sampling rule takes time sublinear in $K$ for common classes of matroids: $\mathcal{O}(D\,\text{polylog}(K,T))$ for uniform matroids, partition matroids, and graphical matroids, and $\mathcal{O}(D\sqrt{K}\text{polylog}(T))$ for transversal matroids, where $D$ is the rank of the matroid, and $T$ is the horizon.
 Our technique is based on dynamic maintenance of an approximate maximum-weight basis over inner-product weights. 
 
