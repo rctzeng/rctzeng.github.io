@@ -18,9 +18,9 @@ Our technique is based on dynamic maintenance of an approximate maximum-weight b
 * [paper](https://openreview.net/attachment?id=8jg8z3ASiw&name=supplementary_material), [code](https://github.com/rctzeng/NeurIPS2023-PerturbedFWS), [poster](https://rctzeng.github.io/posters/NeurIPS2023-PFWS.pdf), [5-min slides](https://rctzeng.github.io/slides/NeurIPS2023-PFWS_5min.pdf), [20-min slides by Po-An](https://rctzeng.github.io/slides/NeurIPS2023-PFWS_PAW.pdf), [40-min slides](https://rctzeng.github.io/slides/NeurIPS2023-PFWS_RCT.pdf)
 * Summary: 
 The proposed algorithm (P-FWS) is the first polynomial-time algorithm that achieves minimal sample complexity in high confidence regime and has polynomial sample complexity in moderate confidence regime. Its designed is based on:\
- $\,\,$ (i) A structural property discovered in the Lagrangian dual function associated with the sample complexity lowerbound $T^{\star}(\mu)$;\
- $\,\,$ (ii) Such structural property allows us to design an efficient but non-standard two-player algorithm (MCP) to solve the inner optimization of $T^{\star}(\mu)$;\
- $\,\,$ (iii) The outer optimization of $T^{\star}(\mu)$ is solved by stochastic smoothed FW-based algorithm whose required gradients are estimated only by using the linear maximization.
+ $\,\,$ (i) A structural property discovered in the Lagrangian dual function associated with the sample complexity lowerbound $T^{\star}(\mu)^{-1}$;\
+ $\,\,$ (ii) Such structural property allows us to design an efficient but non-standard two-player algorithm (MCP) to solve the inner optimization of $T^{\star}(\mu)^{-1}$;\
+ $\,\,$ (iii) The outer optimization of $T^{\star}(\mu)^{-1}$ is solved by stochastic smoothed FW-based algorithm whose required gradients are estimated only by using the linear maximization.
 
 ## [Improved analysis of randomized SVD for top-eigenvector approximation](https://proceedings.mlr.press/v151/tzeng22a.html)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Po-An Wang](https://scholar.google.com/citations?user=kzXIxFYAAAAJ), [Florian Adriaens](https://scholar.google.com/citations?user=kk0mF14AAAAJ), [Aristides Gionis](https://scholar.google.se/citations?hl=en&user=11JgipcAAAAJ), and [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ)
