@@ -36,3 +36,8 @@ Awards
  * 2012: $1,000 NTD for female prize at Coding God Competition
  * 2012: $24,000 NTD for Summer Scholarship on Error-Correcting Codes in Mathematics Academia Sinica
  * 2011-2012: $8,000 NTD for Outstanding Academic Achievement Award
+
+Paper Presentations
+======
+Here are the slides that I made for presenting interesting papers to my labmates during the group meeting at NTHU, IIS, and KTH.
+[github link](https://github.com/rctzeng/Paper-Presentations)
