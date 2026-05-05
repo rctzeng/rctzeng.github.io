@@ -11,6 +11,7 @@ author_profile: true
 * [paper](https://openreview.net/pdf?id=MwQ53xAIPs), [slides](https://rctzeng.github.io/slides/ICML2024-FasterCUCB.pdf), [poster](https://rctzeng.github.io/posters/ICML2024-FasterCUCB.pdf)
 * Summary: Existing algorithms have per-round time complexity at least $\Omega(K)$. We propose FasterCUCB whose sampling rule takes time sublinear in $K$ for common classes of matroids: $\mathcal{O}(D\,\text{polylog}(K,T))$ for uniform matroids, partition matroids, and graphical matroids, and $\mathcal{O}(D\sqrt{K}\text{polylog}(T))$ for transversal matroids, where $D$ is the rank of the matroid, and $T$ is the horizon.
 Our technique is based on dynamic maintenance of an approximate maximum-weight basis over inner-product weights. 
+* Presented on [Learning in networks workshop 2024](https://www.kth.se/dg2024learning-in-networks/workshop/workshop-learning-in-networks-1.1319211)
 
 ## [Closing the Computational-Statistical Gap in Best Arm Identification for Combinatorial Semi-bandits](https://openreview.net/forum?id=8jg8z3ASiw)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Po-An Wang](https://scholar.google.com/citations?user=kzXIxFYAAAAJ), [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ), [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ)
@@ -21,6 +22,7 @@ The proposed algorithm (P-FWS) is the first polynomial-time algorithm that achie
  $\,\,$ (i) A structural property discovered in the Lagrangian dual function associated with the sample complexity lowerbound $T^{\star}(\mu)^{-1}$;\
  $\,\,$ (ii) Such structural property allows us to design an efficient but non-standard two-player algorithm (MCP) to solve the inner optimization of $T^{\star}(\mu)^{-1}$;\
  $\,\,$ (iii) The outer optimization of $T^{\star}(\mu)^{-1}$ is solved by stochastic smoothed FW-based algorithm whose required gradients are estimated only by using the linear maximization.
+* Presented on [Learning in networks workshop 2024](https://www.kth.se/dg2024learning-in-networks/workshop/workshop-learning-in-networks-1.1319211)
 
 ## [Improved analysis of randomized SVD for top-eigenvector approximation](https://proceedings.mlr.press/v151/tzeng22a.html)
 * **[Ruo-Chun Tzeng](https://scholar.google.com/citations?user=jntcHQ0AAAAJ)**, [Po-An Wang](https://scholar.google.com/citations?user=kzXIxFYAAAAJ), [Florian Adriaens](https://scholar.google.com/citations?user=kk0mF14AAAAJ), [Aristides Gionis](https://scholar.google.se/citations?hl=en&user=11JgipcAAAAJ), and [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ)
