@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Data Scientist at Ericsson.
-I obtained my PhD degree at KTH, supervised by Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) and Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ).
+I am currently a Data Scientist at Ericsson, and will soon be re-joining Microsoft as a Senior Applied Scientist!
+I earned my PhD from KTH, where I was supervised by Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) and Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ).
+My research focuses on designing approximation algorithms for graph problems and improving the computational efficiency of statistically efficient bandit algorithms.
 
 Education and Work Experience
 ======
-* 2025 Dec. - Now: Data Scientist at Ericsson, Sweden
+* 2026 Jun.: Senior Applied Scientist at Microsoft, Taiwan
+* 2025 Dec. - 2026 May: Data Scientist at Ericsson, Sweden
 * 2020 Mar. - 2025 Aug.: Doctoral Student at KTH, Sweden
   * On Dec 6th, 2024, I defended my PhD with [Morteza Haghir Chehreghani
 ](https://scholar.google.com/citations?user=8YBZPcAAAAAJ) as the opponent; my thesis committee comprised of [Claire Vernade](https://scholar.google.com/citations?user=tE2hCaYAAAAJ), [Junya Honda](https://scholar.google.com/citations?user=Aw8OrxQAAAAJ), and [Sanjay Chawla](https://scholar.google.com/citations?user=fdUJcwYAAAAJ). Here's my [thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-355999) and [slides](slides/PhD-Defense.pdf).
