@@ -13,17 +13,17 @@ My research focuses on designing approximation algorithms for graph problems and
 
 Education and Work Experience
 ======
-* 2026 Jun.: Senior Applied Scientist at Microsoft, Taiwan
-* 2025 Dec. - 2026 May: Data Scientist at Ericsson, Sweden
+* 2026 Jun. - Present (Incoming): Senior Applied Scientist at Microsoft, Taiwan
+* 2025 Dec. - 2026 May.: Data Scientist at Ericsson, Sweden
 * 2020 Mar. - 2025 Aug.: Doctoral Student at KTH, Sweden
   * On Dec 6th, 2024, I defended my PhD with [Morteza Haghir Chehreghani
 ](https://scholar.google.com/citations?user=8YBZPcAAAAAJ) as the opponent; my thesis committee comprised of [Claire Vernade](https://scholar.google.com/citations?user=tE2hCaYAAAAJ), [Junya Honda](https://scholar.google.com/citations?user=Aw8OrxQAAAAJ), and [Sanjay Chawla](https://scholar.google.com/citations?user=fdUJcwYAAAAJ). Here's my [thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-355999) and [slides](slides/PhD-Defense.pdf).
   * 50% seminar: [slides](slides/Half-Time.pdf) with [Aditya Bhaskara](https://scholar.google.com/citations?user=tqxTaiAAAAAJ) as the opponent
   * Research internship at CyberAgent, supervised by [Naoto Ohsaka](https://scholar.google.com/citations?hl=en&user=Qgkc9DgAAAAJ) and [Kaito Ariu](https://scholar.google.com/citations?user=4zXjxhsAAAAJ)
-  * Teaching Assistant: [DD2421 (Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2421) taught by [Atsuto Maki](https://scholar.google.com/citations?user=bfWzlAEAAAAJ) and [DD2434 (Advanced Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2434)
-* 2018 Jun. - 2019 Nov.: R&D Software Engineer, AI+R department, Microsoft, Taiwan
-* 2018 Apr. - Jun.: Research Assistant, Institute of Information Science, Academia Sinica, Taiwan (supervisor: [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ))
-* 2011 Feb. - 2017 Nov.: Bachlor & Master Degree in Computer Science, National Tsing Hua University (NTHU), Taiwan
+  * Teaching Assistant: [DD2421 (Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2421) taught by [Atsuto Maki](https://scholar.google.com/citations?user=bfWzlAEAAAAJ) and [DD2434 (Advanced Machine Learning)](https://www.kth.se/student/kurser/kurs/DD2434) taught by [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ)
+* 2018 Jun. - 2019 Nov.: R&D Software Engineer at Microsoft, Taiwan
+* 2018 Apr. - Jun.: Research Assistant at Institute of Information Science, Academia Sinica, Taiwan (supervisor: [Chi-Jen Lu](https://scholar.google.com/citations?user=B_SGfJoAAAAJ))
+* 2011 Feb. - 2017 Nov.: Bachlor & Master Degree in Computer Science at National Tsing Hua University (NTHU), Taiwan
   * Teaching Assistant: Large-Scale Machine Learning taught by [Shan-Hung Wu](https://scholar.google.com/citations?user=xjzRJwMAAAAJ)
 
 Professional Activities
