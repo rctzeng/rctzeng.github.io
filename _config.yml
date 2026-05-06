@@ -86,7 +86,7 @@ author:
   location         : "Taiwan"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=jntcHQ0AAAAJ"
+  googlescholar    : "jntcHQ0AAAAJ"
   email            : "rubys88684@gmail.com"
   researchgate     :
   uri              :
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4222-274X"
+  linkedin         : "ruo-chun-tzeng-3a2677196"
+  orcid            : "0000-0002-4222-274X"
   pinterest        :
   soundcloud       :
   stackoverflow    :
