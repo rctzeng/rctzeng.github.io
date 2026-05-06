@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruo-Chun Tzeng"
 title_separator          : "-"
 name                     : &name "Ruo-Chun Tzeng"
-description              : &description "Data Scientist at Ericsson"
+description              : &description "(Incoming) Senior Applied Scientist at Microsoft"
 url                      : https://rctzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rctzeng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruo-Chun Tzeng"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist at Ericsson"
-  location         : "Sweden"
+  bio              : "(Incoming) Senior Applied Scientist at Microsoft"
+  location         : "Taiwan"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jntcHQ0AAAAJ"
-  email            : "ruo-chun.tzeng@ericsson.com"
+  email            : "rubys88684@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
