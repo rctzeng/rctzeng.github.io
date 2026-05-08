@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Data Scientist at Ericsson, and will soon be re-joining Microsoft as a Senior Applied Scientist!
+I am currently a Data Scientist at Ericsson.
 I earned my PhD from KTH, where I was supervised by Prof. [Aristides Gionis](https://scholar.google.com/citations?user=11JgipcAAAAJ) and Prof. [Alexandre Proutiere](https://scholar.google.com/citations?user=g5sya5cAAAAJ).
 My research focuses on designing approximation algorithms for graph problems and improving the computational efficiency of statistically efficient bandit algorithms.
 
 Education and Work Experience
 ======
-* 2026 Jun. - Present (Incoming): Senior Applied Scientist at Microsoft, Taiwan
 * 2025 Dec. - 2026 May.: Data Scientist at Ericsson, Sweden
 * 2020 Mar. - 2025 Aug.: Doctoral Student at KTH, Sweden
   * On Dec 6th, 2024, I defended my PhD with [Morteza Haghir Chehreghani
