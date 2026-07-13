@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruo-Chun Tzeng"
 title_separator          : "-"
 name                     : &name "Ruo-Chun Tzeng"
-description              : &description "Senior Applied Scientist at Microsoft"
+description              : &description
 url                      : https://rctzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rctzeng.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ruo-Chun Tzeng"
   avatar           : "profile.jpg"
-  bio              : "Senior Applied Scientist at Microsoft"
-  location         : "Taiwan"
+  bio              : 
+  location         : 
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jntcHQ0AAAAJ"
