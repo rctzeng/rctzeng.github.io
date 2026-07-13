@@ -12,7 +12,6 @@ My research focuses on designing approximation algorithms for graph problems and
 
 Education and Work Experience
 ======
-* 2026 Jul - Now: Senior Applied Scientist at Microsoft, Taiwan
 * 2025 Dec. - 2026 May.: Data Scientist at Ericsson, Sweden
 * 2020 Mar. - 2025 Aug.: Doctoral Student at KTH, Sweden
   * On Dec 6th, 2024, I defended my PhD with [Morteza Haghir Chehreghani
